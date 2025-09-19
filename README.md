@@ -34,6 +34,7 @@ You’ll need a few essentials:
 >Why?
 >- VS Code + Azure CLI = our Swiss Army knife for deploying things with Bicep.
 >- Not into Bicep? No problem. We’ll have a parallel lab where you can provision resources manually in the portal. (Clicking around is fine too — you choose your adventure!)
+>
 >![VS Code Extensions](./assets/prerequisites-vsc.png)
 
 **3. Azure subscription**
